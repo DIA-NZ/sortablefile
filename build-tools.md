@@ -19,7 +19,7 @@ First of all, you need to install the [yarn](https://yarnpkg.com/en/) package ma
 Then do the following:
 
 ```bash
-cd ./vendor/bummzack/sortablefile
+cd ./vendor/dia-nz/sortablefile
 yarn
 ```
 

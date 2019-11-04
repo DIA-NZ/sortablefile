@@ -3,6 +3,6 @@ Name: sortablefile
 ---
 SilverStripe\Admin\LeftAndMain:
   extra_requirements_css:
-    - 'bummzack/sortablefile: client/dist/styles/main.css'
+    - 'dia-nz/sortablefile: client/dist/styles/main.css'
   extra_requirements_javascript:
-    - 'bummzack/sortablefile: client/dist/js/main.js'
+    - 'dia-nz/sortablefile: client/dist/js/main.js'

@@ -1,12 +1,12 @@
 Sortable UploadField
 ============
 
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/bummzack/sortablefile/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/bummzack/sortablefile/?branch=master)
-[![Code Coverage](https://codecov.io/gh/bummzack/sortablefile/branch/master/graph/badge.svg)](https://codecov.io/gh/bummzack/sortablefile)
-[![Build Status](https://travis-ci.org/bummzack/sortablefile.svg?branch=master)](https://travis-ci.org/bummzack/sortablefile)
-[![Latest Stable Version](https://poser.pugx.org/bummzack/sortablefile/v/stable)](https://packagist.org/packages/bummzack/sortablefile)
-[![Latest Unstable Version](https://poser.pugx.org/bummzack/sortablefile/v/unstable)](https://packagist.org/packages/bummzack/sortablefile)
-[![Monthly Downloads](https://poser.pugx.org/bummzack/sortablefile/d/monthly)](https://packagist.org/packages/bummzack/sortablefile)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/dia-nz/sortablefile/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/dia-nz/sortablefile/?branch=master)
+[![Code Coverage](https://codecov.io/gh/dia-nz/sortablefile/branch/master/graph/badge.svg)](https://codecov.io/gh/dia-nz/sortablefile)
+[![Build Status](https://travis-ci.org/dia-nz/sortablefile.svg?branch=master)](https://travis-ci.org/dia-nz/sortablefile)
+[![Latest Stable Version](https://poser.pugx.org/dia-nz/sortablefile/v/stable)](https://packagist.org/packages/dia-nz/sortablefile)
+[![Latest Unstable Version](https://poser.pugx.org/dia-nz/sortablefile/v/unstable)](https://packagist.org/packages/dia-nz/sortablefile)
+[![Monthly Downloads](https://poser.pugx.org/dia-nz/sortablefile/d/monthly)](https://packagist.org/packages/dia-nz/sortablefile)
 
 
 An extension for SilverStripe 4.1+ that allows sorting of files attached via `UploadField`.
@@ -25,7 +25,7 @@ For a version compatible with SilverStripe 3, please use a `1.x` release.
 
 The easiest way is to use [composer](https://getcomposer.org/):
 
-    composer require bummzack/sortablefile ^2.0
+    composer require dia-nz/sortablefile ^2.0
 
 Run `dev/build` afterwards.
 

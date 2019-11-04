@@ -1,5 +1,5 @@
 {
-    "name": "bummzack/sortablefile",
+    "name": "dia-nz/sortablefile",
     "description": "An extension for SilverStripe 4 that adds sorting to UploadField.",
     "type": "silverstripe-vendormodule",
     "keywords": [

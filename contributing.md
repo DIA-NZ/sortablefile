@@ -5,9 +5,9 @@ This module only moves forward as we each build the features we need. We love pu
 ### Here is a quick list of ways you can contribute:
 
  * __Test the latest code__. Install it and try it out.
- * __Submit issues and ideas__. These can be bugs, or ideas. Be descriptive and detailed. Its better to discuss and design ideas before writing code. Please first check the [list of existing issues](https://github.com/bummzack/sortablefile/issues) to make sure an identical one doesn't exist already.
+ * __Submit issues and ideas__. These can be bugs, or ideas. Be descriptive and detailed. Its better to discuss and design ideas before writing code. Please first check the [list of existing issues](https://github.com/dia-nz/sortablefile/issues) to make sure an identical one doesn't exist already.
 
-If you would like to contribute code, please [fork this project](https://github.com/bummzack/sortablefile). You
+If you would like to contribute code, please [fork this project](https://github.com/dia-nz/sortablefile). You
 can then make changes in feature branches via git, and submit pull requests, which will be reviewed and merged into the
 code base. If merge is not appropriate, instruction will be given on the best action(s) to take.
 
